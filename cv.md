@@ -23,7 +23,24 @@ I myself work in business, as a BI analyst. I don't want to stop there, so I dev
 * VS Code, IntelliJ IDEA, PyCharm
 ***
 ## Code example:
+**DESCRIPTION:** *You're writing code to control your town's traffic lights. You need a function to handle each change from green, to yellow, to red, and then to green again.*
+```
+function updateLight(current) {
+  if (current === 'green') {
+    return 'yellow';
+  }
+  else if (current === 'yellow') {
+    return 'red';
+  }
+  else {
+    return 'green';
+  }
+}
+```
 ***
 ## Courses:
+* Python 
+*
+*
 ***
 ## Languages:

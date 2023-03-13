@@ -46,3 +46,10 @@ function updateLight(current) {
 * **JavaScript/Front-end 2023Q1** [rs-school](https://app.rs.school/course/student/dashboard?course=js-fe-2023Q1) (in progress)
 ***
 ## Languages:
+* English - C1/C2 Advanced/Proficient according to the Common European Framework of Reference (CEFR [www.efset.org](https://www.efset.org/cert/JvHpCe 'efset')).
+![result](https://ltdfoto.ru/images/2023/03/13/res.png)
+* Russian - Native
+* Belarussian - Native
+* Spanish - Basic
+
+

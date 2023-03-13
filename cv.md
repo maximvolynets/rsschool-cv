@@ -39,8 +39,10 @@ function updateLight(current) {
 ```
 ***
 ## Courses:
-* Python 
-*
-*
+* **Python** [stepik.org](https://stepik.org/course/68343/)
+* **Responsive Web Design** [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+* **JavaScript Algorithms and Data Structures** [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+* **Front End Development Libraries** [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/) (in progress)
+* **JavaScript/Front-end 2023Q1** [rs-school](https://app.rs.school/course/student/dashboard?course=js-fe-2023Q1) (in progress)
 ***
 ## Languages:
